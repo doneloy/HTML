@@ -1,0 +1,29 @@
+*{
+	font-family: arial;
+}
+
+html, main, body{
+	overflow: hidden;
+}
+
+#prim{
+
+	display: flex;
+	margin: auto;
+	border: 2px solid;
+	width: 95%;
+	margin-top: 20px;
+	background-color: grey;
+}
+
+#uy{
+
+	border: 1px solid;
+	width: 300px;
+}
+
+#link{
+	border: 1px solid;
+	width: 300px;
+	vertical-align: middle;
+}
