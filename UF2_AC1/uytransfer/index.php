@@ -13,5 +13,8 @@
       include "librerias/header.php";
 
     ?>
+
+    <p>hola</p>
+    
   </body>
 </html>
