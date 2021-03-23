@@ -1,0 +1,16 @@
+*{
+	font-family: arial;
+}
+
+html, main, body{
+	overflow: hidden;
+}
+
+#formulario{
+
+	display: flex;
+	border: 1px solid;
+	width: 70%;
+	margin: auto;
+	align-content: center;
+}

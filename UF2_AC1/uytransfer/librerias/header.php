@@ -10,12 +10,11 @@
 
       <div id="prim">
         <h1 id="uy">Uy!Transfer</h1>
-
         <div id="link">
-          <a href="upload.php">Enviar archivo</a>
+          <a href="upload.php">Enviar archivo</a> 
+          <span>|</span>
           <a href="upload.php">Mis últimos archivos</a>
         </div>
-        
       </div>
 
   </body>
