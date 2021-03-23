@@ -8,9 +8,9 @@ html, main, body{
 
 #formulario{
 
-	display: flex;
-	border: 1px solid;
-	width: 70%;
+	display: block;
+	width: 80%;
 	margin: auto;
-	align-content: center;
+	text-align: center;
+	margin-top: 50px;
 }
