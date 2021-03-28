@@ -1,0 +1,23 @@
+*{
+	font-family: arial;
+}
+
+html, main, body{
+	overflow: hidden;
+}
+
+#grande{
+	width: 80%;
+	display: block;
+	margin: auto;
+}
+
+img{
+	width: 250px;
+}
+
+h3{
+	float: right;
+	font-size: 35px;
+	margin-right: 60px;
+}
